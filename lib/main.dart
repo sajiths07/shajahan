@@ -17,6 +17,10 @@ Future main() async {
           storageBucket: "shajahan-7d7f5.appspot.com",
           messagingSenderId: "974741944188",
           appId: "1:974741944188:web:7cc7ed1fb3dbef8edf96f9"),
+<<<<<<< HEAD
+=======
+
+>>>>>>> e2ae9f6 (Initial commit)
     );
   } else {
     await Firebase.initializeApp();
